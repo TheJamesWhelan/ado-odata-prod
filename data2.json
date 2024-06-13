@@ -1,0 +1,151 @@
+{
+    "id": 27342103,
+    "rev": 14,
+    "fields": {
+        "System.Id": 27342103,
+        "System.AreaId": 270568,
+        "System.AreaPath": "One\\Azure CXP\\PMO\\Tooling",
+        "System.TeamProject": "One",
+        "System.NodeName": "Tooling",
+        "System.AreaLevel1": "One",
+        "System.AreaLevel2": "Azure CXP",
+        "System.AreaLevel3": "PMO",
+        "System.AreaLevel4": "Tooling",
+        "System.Rev": 14,
+        "System.AuthorizedDate": "2024-04-05T21:33:05.72Z",
+        "System.RevisedDate": "9999-01-01T00:00:00Z",
+        "System.IterationId": 334099,
+        "System.IterationPath": "One\\Dilithium\\CY24Q2\\Monthly\\04 Apr (Mar 31 - Apr 27)",
+        "System.IterationLevel1": "One",
+        "System.IterationLevel2": "Dilithium",
+        "System.IterationLevel3": "CY24Q2",
+        "System.IterationLevel4": "Monthly",
+        "System.IterationLevel5": "04 Apr (Mar 31 - Apr 27)",
+        "System.WorkItemType": "Product Backlog Item",
+        "System.State": "Active",
+        "System.Reason": "Moved to state Active",
+        "System.AssignedTo": {
+            "displayName": "Chris Redstone",
+            "url": "https://spsprodwus23.vssps.visualstudio.com/A41b4f3ee-c651-4a14-9847-b7cbb5315b80/_apis/Identities/32bd4605-f6ad-444f-bb8b-e10b7b54dca7",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.OTlkNWEyNzAtZTk0Yi03YTgzLTkxZTgtMGVkZDU4MTk4YzZl"
+                }
+            },
+            "id": "32bd4605-f6ad-444f-bb8b-e10b7b54dca7",
+            "uniqueName": "chrisred@microsoft.com",
+            "imageUrl": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.OTlkNWEyNzAtZTk0Yi03YTgzLTkxZTgtMGVkZDU4MTk4YzZl",
+            "descriptor": "aad.OTlkNWEyNzAtZTk0Yi03YTgzLTkxZTgtMGVkZDU4MTk4YzZl"
+        },
+        "System.CreatedDate": "2024-03-27T18:50:43.543Z",
+        "System.CreatedBy": {
+            "displayName": "Erik Swart",
+            "url": "https://spsprodwus23.vssps.visualstudio.com/A41b4f3ee-c651-4a14-9847-b7cbb5315b80/_apis/Identities/a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+                }
+            },
+            "id": "a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "uniqueName": "erikswart@microsoft.com",
+            "imageUrl": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5",
+            "descriptor": "aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+        },
+        "System.ChangedDate": "2024-04-05T21:33:05.72Z",
+        "System.ChangedBy": {
+            "displayName": "Erik Swart",
+            "url": "https://spsprodwus23.vssps.visualstudio.com/A41b4f3ee-c651-4a14-9847-b7cbb5315b80/_apis/Identities/a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+                }
+            },
+            "id": "a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "uniqueName": "erikswart@microsoft.com",
+            "imageUrl": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5",
+            "descriptor": "aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+        },
+        "System.AuthorizedAs": {
+            "displayName": "Erik Swart",
+            "url": "https://spsprodwus23.vssps.visualstudio.com/A41b4f3ee-c651-4a14-9847-b7cbb5315b80/_apis/Identities/a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+                }
+            },
+            "id": "a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "uniqueName": "erikswart@microsoft.com",
+            "imageUrl": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5",
+            "descriptor": "aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+        },
+        "System.PersonId": 28902172,
+        "System.Watermark": 140056598,
+        "System.AttachedFileCount": 0,
+        "System.HyperLinkCount": 0,
+        "System.ExternalLinkCount": 0,
+        "System.RelatedLinkCount": 0,
+        "System.IsDeleted": false,
+        "System.CommentCount": 3,
+        "System.RemoteLinkCount": 0,
+        "System.Title": "Ceres API Authentication Failure - secret no longer valid",
+        "System.BoardColumn": "Active",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.BacklogPriority": 1999994230.0,
+        "Microsoft.VSTS.Common.StateChangeDate": "2024-03-27T18:52:19.713Z",
+        "Microsoft.VSTS.Common.ActivatedDate": "2024-03-27T18:52:19.713Z",
+        "Microsoft.VSTS.Common.ActivatedBy": {
+            "displayName": "Erik Swart",
+            "url": "https://spsprodwus23.vssps.visualstudio.com/A41b4f3ee-c651-4a14-9847-b7cbb5315b80/_apis/Identities/a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+                }
+            },
+            "id": "a7ec1133-b73e-6c46-ad31-5984f111d1f9",
+            "uniqueName": "erikswart@microsoft.com",
+            "imageUrl": "https://dev.azure.com/msazure/_apis/GraphProfile/MemberAvatars/aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5",
+            "descriptor": "aad.YTdlYzExMzMtYjczZS03YzQ2LWFkMzEtNTk4NGYxMTFkMWY5"
+        },
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Scheduling.StartDate": "2024-03-26T07:00:00Z",
+        "Microsoft.VSTS.Scheduling.FinishDate": "2024-04-03T07:00:00Z",
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Scheduling.OriginalEstimate": 8.0,
+        "Scrum_custom.IsException": false,
+        "Scrum_custom.OriginalRiskRating": "High",
+        "Scrum_custom.AdjustedRiskRating": "High",
+        "WEF_8BCEA7881D8B45CBB94978B2C5D9FFA3_System.ExtensionMarker": true,
+        "WEF_8BCEA7881D8B45CBB94978B2C5D9FFA3_Kanban.Column.Done": false,
+        "WEF_AF2181C0277548F1995A761FCD7FFF43_System.ExtensionMarker": true,
+        "WEF_AF2181C0277548F1995A761FCD7FFF43_Kanban.Column": "Active",
+        "WEF_AF2181C0277548F1995A761FCD7FFF43_Kanban.Column.Done": false,
+        "WEF_7BA0CB27D4204E3BB8FE81187BD91BCB_System.ExtensionMarker": true,
+        "WEF_7BA0CB27D4204E3BB8FE81187BD91BCB_Kanban.Column": "Active",
+        "WEF_7BA0CB27D4204E3BB8FE81187BD91BCB_Kanban.Column.Done": false,
+        "System.Description": "<div><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><b><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\">From:</span></b><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;\"> Chris Redstone &lt;<a href=\"mailto:Chris.Redstone@microsoft.com\">Chris.Redstone@microsoft.com</a>&gt;\n<br><b>Sent:</b> Tuesday, March 26, 2024 4:35 PM<br><b>To:</b> Ren Yu &lt;<a href=\"mailto:Ren.Yu@microsoft.com\">Ren.Yu@microsoft.com</a>&gt;;\nSam Portelli &lt;<a href=\"mailto:Sam.Portelli@microsoft.com\">Sam.Portelli@microsoft.com</a>&gt;;\nYi Shen &lt;<a href=\"mailto:yishen@microsoft.com\">yishen@microsoft.com</a>&gt;;\nJisu Park &lt;<a href=\"mailto:Jisu.Park@microsoft.com\">Jisu.Park@microsoft.com</a>&gt;;\nJason Adams (AZURE CXP PMO) &lt;<a href=\"mailto:Jason.Adams@microsoft.com\">Jason.Adams@microsoft.com</a>&gt;<br><b>Cc:</b> Amita Vijaykumar Menon &lt;<a href=\"mailto:Amita.Menon@microsoft.com\">Amita.Menon@microsoft.com</a>&gt;;\nErik Swart &lt;<a href=\"mailto:erikswart@microsoft.com\">erikswart@microsoft.com</a>&gt;<br><b>Subject:</b> Re: PMO x Ceres API Authentication </span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\">&nbsp; </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">Hey team,</span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">Today I was\nworking with Erik Swart on using the app registration to write to Ceres and we\nfound that it wasn't working. After a little troubleshooting we realized that\nthe secret that had been granted to PMO had been removed from the app\nregistration, along with almost all of the other secrets. I know there was a\nrecent push to clean up secrets so perhaps this was an output of that effort,\nbut we still do need it. Right now Erik and team are blocked on completing\ntheir task, so I am hoping that we can get the secret added back to the app\nregistration. I am happy to work with you all to make it happen and provide any\nadditional information.</span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">&nbsp;</span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;background:aqua;\">For\nreference, this was on the &quot;Azure CXP Service&quot; app registration, the\nsecret was for CXP PMO.</span><span style=\"font-size:11.0pt;color:black;\"></span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">&nbsp;</span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">Please let me\nknow how you'd like to&nbsp;proceed. I was going to open an IcM to get things\ngoing, but let's start here first to see if we can get to a good state quicker.\nThanks again for all your help on this one!</span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">&nbsp;</span> </p><p style=\"margin:0in;font-size:12pt;font-family:Aptos, sans-serif;\"><span style=\"font-size:11.0pt;color:black;\">C</span> </p><br> </div>",
+        "Microsoft.VSTS.Common.AcceptanceCriteria": "<div>RCE - This incident happened due to recent security clean up efforts. All secrets were removed from the app registration and based on investigation, it appeared that the PRIMO team did not receive advanced notification. Also, we do not have a mechanism in place to know who each secret belong to in order to notify them of the change. </div>",
+        "Microsoft.VSTS.Common.Resolution": "<a href=\"https://azurewiki.cloudapp.net/Requesting%20an%20Exception\">Requesting exception</a>",
+        "System.Tags": [
+            {
+                "id": "3bb6c7c3-96af-461c-a6dd-fea98b487dd9",
+                "name": "Insights",
+                "active": true
+            },
+            {
+                "id": "ea7b0884-77f4-40b3-be4f-8318d588aa42",
+                "name": "Incident Management",
+                "active": true
+            },
+            {
+                "id": "a1b85a3b-bc48-4c3f-81cf-24446e71e6d9",
+                "name": "Ceres",
+                "active": true
+            },
+            {
+                "id": "fe07db36-b040-4e6d-bdd4-e824cc9a787e",
+                "name": "CommunitiesHub",
+                "active": true
+            }
+        ]
+    }
+}
