@@ -2,10 +2,14 @@
 
 param env string
 param sacnames array = ['cds'
+                        'cds-strataccs'
+                        'cds-survyplat'
                         'asql'
                         'adex'
                         'ado'
                         'ablb'
+                        'adex-1escm'
+                        'adex-ceres'
 ]
 
 var managedIdentityName = 'mi_azcxppmo_udp'
